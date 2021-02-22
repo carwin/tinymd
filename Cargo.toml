@@ -1,0 +1,11 @@
+[package]
+name = "tinymd"
+description = "A tiny markdown compiler I wrote to learn rust. It is naive and only converts <h1> and <p> elements."
+version = "0.1.0"
+homepage = "https://github.com/carwin/tinymd"
+authors = ["Carwin Young <projects@carw.in>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
